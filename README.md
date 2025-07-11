@@ -2,7 +2,7 @@
 ![Screenshot of BetterEqualizer](preview.png)
 ## Description
 
-BetterEqualizer is an extension that enhances the lackluster built-in equalizer that spotify provides. This extension adds input boxes for each band in the equalizer that allow you to input precise decibel values. This allows you to input precise values using the spotify equalizer setting from [AutoEq](https://autoeq.app/)
+BetterEqualizer is an extension that enhances the lackluster built-in equalizer that spotify provides. This extension adds input boxes for each band in the equalizer that allow you to input precise decibel values. You can use this to your advantage by either using your own values or inputting values using the spotify equalizer setting from [AutoEq](https://autoeq.app/)
 
 ## Manual Installation
 
