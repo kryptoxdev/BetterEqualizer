@@ -1,0 +1,8 @@
+  {
+    "name": "BetterEqualizer",
+    "description": "Adds editable values to the equalizer for fine control.",
+    "preview": "preview.png",
+    "main": "betterEqualizer.js",
+    "readme": "README.md",
+    "tags": ["equalizer", "audio"]
+  }
